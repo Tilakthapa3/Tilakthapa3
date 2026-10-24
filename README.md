@@ -1,8 +1,10 @@
 # Hi, I'm Tilak 👋
 
 🎓 M.S. Cybersecurity student at Avila University (graduating Dec 2026)
+
 🔐 Interested in Penetration Testing & SOC Analyst roles
-💻 B.S. Computer Information Science, Washburn University
+
+💻 B.S. Computer Information Science, Washburn University 
 
 ---
 
