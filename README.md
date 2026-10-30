@@ -26,6 +26,7 @@
 
 ### 📌 Featured Projects
 - **[nmap-triage](https://github.com/Tilakthapa3/nmap-triage)** — AI-assisted Nmap scan triage: parses Nmap XML and returns prioritized findings with remediation steps
+- **[cyberbeep](https://github.com/Tilakthapa3/cyberbeep)** — Real-time SSH brute-force detection with severity audio alerts, a live dashboard, and Wazuh input (stdlib-only Python)
 - **[nepal-river-watch](https://github.com/Tilakthapa3/nepal-river-watch)** — Live river gauge readings from Nepal's DHM, flagging stations above warning and danger levels
 - **[nepal-glacier-tracker](https://github.com/Tilakthapa3/nepal-glacier-tracker)** — Tracks Nepal's glacial lake growth (GLOF risk) with Sentinel-2 and Google Earth Engine
 - **[portfolio](https://github.com/Tilakthapa3/portfolio)** — My personal portfolio site
